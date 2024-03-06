@@ -1,32 +1,32 @@
 let handler = async m => m.reply(`
 
-≡  *GURU  ┃ ᴮᴼᵀ*   GROUPS
+≡  *anomolie254*   GROUPS
 
 ─────────────
-▢ Join public bot group and support
-https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+▢ save contact info
+https://wa.me/254796714208
 
 ▢ Group 2
-https://chat.whatsapp.com/LwLQab5mZVW6WWRbBPnDGC
+https://wa.me/254796714208
 
 ▢ Group 3
-https://chat.whatsapp.com/Jn9qVerYN6Q1L0vlVFe2XL
+https://wa.me/254796714208
 
 ─────────────
 ≡ Disabled links? enter here! 
 
 ▢ Group WhatsApp 
- https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp
+https://wa.me/254796714208
 ─────────────
 ▢ *Owner Telegram*
- https://t.me/i_want_to_be_isekaied
+ https://t.me/lilgkhell
 
 ▢ *YouTube*
-• https://www.youtube.com/@Asliguru
+• https://www.youtube.com/
 
 
 `.trim())
-handler.help = ['gpguru']
+handler.help = ['lilgkhell']
 handler.tags = ['main']
 handler.command = ['groups', 'groupguru', 'gugp', 'ggp', 'gpguru'] 
 
